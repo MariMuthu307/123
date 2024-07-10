@@ -6,7 +6,8 @@ public class Pratice {
 	
 	public static void main(String[] args) {
 		
-		Scanner m = new  Scanner(System.in);
+		
+Scanner m = new  Scanner(System.in);
 		
 		System.out.println("Enter Your Name :");
 		String name = m.next();
