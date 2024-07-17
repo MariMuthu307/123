@@ -5,6 +5,8 @@ import java.util.Scanner;
 public class Pratice {
 	
 	public static void main(String[] args) {
+	
+public static void main(String[] args) {
 		
 		
 Scanner m = new  Scanner(System.in);
